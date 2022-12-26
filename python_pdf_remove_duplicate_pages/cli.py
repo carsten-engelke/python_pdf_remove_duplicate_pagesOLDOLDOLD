@@ -9,6 +9,7 @@ def main(args=None):
     click.echo("Replace this message by putting your code into "
                "python_pdf_remove_duplicate_pages.cli.main")
     click.echo("See click documentation at https://click.palletsprojects.com/")
+    click.echo("Hi! this works")
     return 0
 
 
